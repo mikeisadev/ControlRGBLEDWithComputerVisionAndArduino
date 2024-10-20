@@ -1,4 +1,6 @@
 # ControlRGBLEDWithComputerVisionAndArduino
+### See this [code in action on my YouTube Channel](https://www.youtube.com/shorts/f3V4fJ6UyYo)
+
 A simple code for Arduino and Python to control LED RGB with computer vision on index-thumb distance in pixels
 
 Thanks to a simple computer vision program in python, we can control the RGB LED light color moving our index and thumb.
