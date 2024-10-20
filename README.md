@@ -1,5 +1,5 @@
 # ControlRGBLEDWithComputerVisionAndArduino
-### See this [code in action on my YouTube Channel](https://www.youtube.com/shorts/f3V4fJ6UyYo){:target=”_blank”}
+### See this [code in action on my YouTube Channel]{:target=”_blank”}(https://www.youtube.com/shorts/f3V4fJ6UyYo)
 
 A simple code for Arduino and Python to control LED RGB with computer vision on index-thumb distance in pixels
 
